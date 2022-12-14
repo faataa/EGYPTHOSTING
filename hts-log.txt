@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 Dec 2022 10:17:02 at http://panel.direct-hosting.co:591/home.php?m=dashboard&p=dashboard +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://panel.direct-hosting.co:591/home.php?m=dashboard&p=dashboard -O1 "C:\Users\ABC_STORE\Desktop\new\eldarba" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:17:48	Warning: 	Retry after error -4 (No data (connection closed)) at link panel.direct-hosting.co:591/themes/Flat/modules/dashboard/dashboard.css (from panel.direct-hosting.co:591/home.php?m=dashboard&p=dashboard)
+10:17:58	Warning: 	Moved Permanently for www.opengamepanel.org/robots.txt
+10:17:58	Warning: 	Redirected link is identical because of 'URL Hack' option: www.opengamepanel.org/robots.txt and https://www.opengamepanel.org/robots.txt
+10:17:58	Warning: 	Warning moved treated for www.opengamepanel.org/robots.txt (real one is https://www.opengamepanel.org/robots.txt)
+10:17:58	Warning: 	Moved Permanently for www.opengamepanel.org/
+10:17:58	Warning: 	Redirected link is identical because of 'URL Hack' option: www.opengamepanel.org/ and https://www.opengamepanel.org/
+10:17:58	Warning: 	File has moved from www.opengamepanel.org/ to https://www.opengamepanel.org/
+10:17:59	Error: 	"Not Found" (404) at link panel.direct-hosting.co:591/themes/Flat/modules/dashboard/assets/xml/ellipsis.xml (from panel.direct-hosting.co:591/themes/Flat/modules/dashboard/dashboard.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 54 links scanned, 47 files written (797234 bytes overall) [374936 bytes received at 6577 bytes/sec], 631321 bytes transferred using HTTP compression in 26 files, ratio 29%, 3.1 requests per connection
+(1 errors, 7 warnings, 0 messages)
